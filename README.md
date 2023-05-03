@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-SophiaWeiler
 
 Running at: <https://jpa03-sophiaweiler.dokku-04.cs.ucsb.edu>
 
