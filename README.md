@@ -1,7 +1,7 @@
 # jpa03-SophiaWeiler
 
-Link to this repo: <https://github.com/ucsb-cs156-s23/jpa03-SophiaWeiler>
-Running at: <https://jpa03-sophiaweiler.dokku-04.cs.ucsb.edu>
+* Link to this repo: <https://github.com/ucsb-cs156-s23/jpa03-SophiaWeiler>
+* Running at: <https://jpa03-sophiaweiler.dokku-04.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
